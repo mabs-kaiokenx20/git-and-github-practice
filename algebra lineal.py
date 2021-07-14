@@ -10,6 +10,9 @@ x = fm.coseno(23)
 
 print(x + 34)
 
+y = fm.seno(23)
+
+print(y + 2)
 
 a = np.array([[1,23,-5],[32,0.45,-90],[45,89,pi]])
 
