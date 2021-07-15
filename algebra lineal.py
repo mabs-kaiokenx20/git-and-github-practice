@@ -19,3 +19,5 @@ b = np.array([pi, 34 * pi, -90])
 solutio = np.linalg.solve( a , b )
 
 print(solutio)
+
+fm.to_print()
