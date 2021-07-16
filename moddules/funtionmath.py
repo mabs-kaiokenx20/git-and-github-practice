@@ -26,5 +26,4 @@ def list_random():
     x = rn.randint(1, 1264724)
     return x 
 
-
-
+#
