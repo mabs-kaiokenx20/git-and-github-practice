@@ -10,12 +10,18 @@ x = fm.coseno(23)
 
 print(x + 34)
 
+y = fm.seno(23)
+
+print(y + 2)
+
+print(fm.list_random())
 
 a = np.array([[1,23,-5],[32,0.45,-90],[45,89,pi]])
 
 b = np.array([pi, 34 * pi, -90])
 
-
 solutio = np.linalg.solve( a , b )
 
 print(solutio)
+
+fm.to_print()
