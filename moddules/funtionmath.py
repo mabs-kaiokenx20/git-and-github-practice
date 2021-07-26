@@ -28,7 +28,7 @@ def list_random():
 
 def to_print():
     print('''
-        Under the arc of a weather stain boards
+        nder the arc of a weather stain boards
         Ancient goblins, and warlords
         Come out the ground, not making a sound
         The smell of death is all around
