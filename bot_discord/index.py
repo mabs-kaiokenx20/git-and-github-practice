@@ -38,6 +38,8 @@ async def iwannasee(ctx, * , user_search):
     url2 = request.urlopen(url)
     print(url2.read().decode())
 
-
+@bot.command()
+async def name(ctx):
+    await ctx.send('I am pepe bot')
 
 bot.run('ODY4Mjk4NjM2NDc0MzIzMDE0.YPtoHw.65om5t4rLMZwPM1seFCZ5gm2DtI')
