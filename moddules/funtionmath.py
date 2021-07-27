@@ -28,7 +28,7 @@ def list_random():
 
 def to_print():
     print('''
-        Under the arc of a weather stain boards
+        nder the arc of a weather stain boards
         Ancient goblins, and warlords
         Come out the ground, not making a sound
         The smell of death is all around
@@ -52,17 +52,6 @@ def to_print():
         All of the sudden I feel a chill
         Victor is grinning, flesh is rotting away
         Skeletons dance, I curse this day
-        And at night when the wolves cry out
-        Listen close and you can hear me shout
-        I don't wanna be buried in a pet cemetery
-        I don't want to live my life again
-        I don't wanna be buried in a pet cemetery
-        I don't want to live my life again
-        Oh, no, oh, no
-        I don't want to live my life, not again
-        Oh, no, oh, oh
-        I don't want to live my life, not again
-        Oh, no, no, no
-        Don't want to live my life, not again
+        
             
     ''')
